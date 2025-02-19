@@ -1,3 +1,4 @@
-Hello, this is new-new-branch!
-This is the change i did now!
+Hello, this is new-branch!
+this is new conflict line
 Hello
+This is the change i did now!
